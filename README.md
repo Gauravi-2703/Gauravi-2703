@@ -14,11 +14,11 @@
 
 <!-- Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravgavhane&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Gauravi-2703&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ---
 <!-- Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravgavhane&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauravi-2703&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
