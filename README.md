@@ -1,5 +1,6 @@
 <!-- Views Count -->
-![](https://komarev.com/ghpvc/?username=Gauravi-2703
+![Profile Views](https://komarev.com/ghpvc/?username=Gauravi-2703&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 <!-- Simple Info -->
 <p align="center">
